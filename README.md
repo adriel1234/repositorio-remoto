@@ -7,4 +7,4 @@ Passos para utilização do projeto
 
 Passo 1: crie as credenciais do github
 
-Passo 2: ...
+Passo 2: Fazer o push
